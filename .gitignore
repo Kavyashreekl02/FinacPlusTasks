@@ -7,5 +7,9 @@ test-results/
 # IDE files
 .vscode/
 
-# Optional: Lock file
+# Lock file
 package-lock.json
+
+# Output screen recordings
+AddToCartOutputScreenrecord.mp4
+ApiOutputScreenrecord.mp4
